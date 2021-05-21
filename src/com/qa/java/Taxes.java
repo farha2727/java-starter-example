@@ -2,7 +2,7 @@ package com.qa.java;
 
 public class Taxes {
 	
-	public static void main(String[] args)
+	
 
 		double salary;
 
